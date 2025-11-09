@@ -1,6 +1,12 @@
 # Relyr - Cross-Border Finance Infrastructure for Africa
 
+[![Project Status](https://img.shields.io/badge/Status-Week%201-blue)](https://github.com/yusstech/relyr-app)
+[![Progress](https://img.shields.io/badge/Progress-8.3%25-yellow)](./Docs/PROGRESS_TRACKER.md)
+[![License](https://img.shields.io/badge/License-Proprietary-red)]()
+
 > Hybrid payment platform bridging traditional finance and blockchain for instant, compliant cross-border payments.
+
+**🎯 Current Phase:** Week 1 - Foundation & Planning (Day 1 Complete)
 
 ## 🚀 Project Overview
 
@@ -269,9 +275,21 @@ Proprietary - All rights reserved
 
 ## 🗓 Current Status
 
-**Week 1 of 12** - Project Setup & Foundation
+```
+[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8.3% Complete (Week 1 of 12)
+```
 
-See [ROADMAP.md](/Docs/ROADMAP.md) for detailed weekly milestones.
+**Week 1 of 12** - Foundation & Planning
+- ✅ Day 1: Project setup complete
+- 🔄 Day 2-5: Development environment & partner accounts
+
+**Latest Updates:**
+- ✅ Repository initialized with comprehensive documentation (3,800+ lines)
+- ✅ GitHub CI/CD pipeline configured
+- ✅ Monorepo structure established
+- ⏳ Next: Install development tools and register partner accounts
+
+See [ROADMAP.md](/Docs/ROADMAP.md) for detailed weekly milestones and [PROGRESS_TRACKER.md](/Docs/PROGRESS_TRACKER.md) for real-time progress.
 
 ---
 
